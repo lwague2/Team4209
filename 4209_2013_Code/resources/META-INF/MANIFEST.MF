@@ -1,0 +1,6 @@
+MIDlet-Name: SampleProject
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: Team4209Robot, , edu.wpi.first.wpilibj.templates.Team4209Robot
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
